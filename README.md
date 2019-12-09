@@ -9,6 +9,13 @@ This repository is for attendees of Databricks Hands-on seminar.
 - olist_order_reviews_dataset
 - olist_orders_dataset_csv
 
+### Power BI Dashboard
+You can check [**Power BI Dashboard (under construction)**]()
+which was made from above 5 CSVs. You can make the same one from combined table below by using Power BI service (web ver. PBI)
+
+- table for PBI2.csv
+
+
 ### Reference
 Please refer to **Wiki** for Hands-on steps (Japanese).
 
